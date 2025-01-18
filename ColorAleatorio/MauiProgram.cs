@@ -1,4 +1,5 @@
-﻿using Plugin.MauiMTAdmob;
+﻿using Microsoft.Extensions.Logging;
+using Plugin.MauiMTAdmob;
 
 namespace ColorAleatorio
 {

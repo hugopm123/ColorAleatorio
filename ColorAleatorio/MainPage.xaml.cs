@@ -8,7 +8,7 @@
         public MainPage()
         {
             InitializeComponent();
-            myAds.AdsId = "ca-app-pub-7110513556928885/7130570156";
+            myAds.AdsId = "ca-app-pub-3753045617095200/8257848714";
         }
 
         private void OnNewColorClicked(object sender, EventArgs e)
